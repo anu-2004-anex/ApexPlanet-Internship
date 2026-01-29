@@ -40,7 +40,7 @@ Below are my screenshots supporting Task-1:
 ![Ping Result](./ping.png)
 
 ### Wireshark Capture
-![Wireshark Capture](./wireshark_capture.png)
+![Wireshark Capture](./wireshark.png)
 
 ### OpenSSL Encryption & Decryption
 ![ssl](./Screenshot_2026-01-29_09_14_17.png).
