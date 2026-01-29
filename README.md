@@ -89,6 +89,7 @@ Practiced:
 ---
 
 ## 📹 Video Demonstration
+[Video](./https://www.linkedin.com/in/anamika-b-pillai-9b18b3303/details/featured/)
 A 5-minute walkthrough video explaining the complete lab setup, tools, and commands has been uploaded to LinkedIn.
 
 ---
