@@ -43,7 +43,7 @@ Below are my screenshots supporting Task-1:
 ![Wireshark Capture](./wireshark_capture.png)
 
 ### OpenSSL Encryption & Decryption
-![OpenSSL Encrypt/Decrypt](./openssl_encrypt_decrypt.png)
+(./Screenshot_2026-01-29_09_14_17.png)
 
 ## Video Demonstration
 Here is my Task-1 video on LinkedIn:
