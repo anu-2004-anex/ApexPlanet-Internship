@@ -30,7 +30,7 @@ To build strong fundamentals in cybersecurity, networking, cryptography, and set
 Below are my screenshots supporting Task-1:
 
 ### Kali Linux Setup
-![Kali Desktop](./Screenshot_2026-01-29_09_14_17.png)
+![Kali Desktop]( kali_dekstop.png)
 
 ### Network Settings
 ![Network Settings](./network_setting.png)
@@ -43,7 +43,9 @@ Below are my screenshots supporting Task-1:
 ![Wireshark Capture](./wireshark_capture.png)
 
 ### OpenSSL Encryption & Decryption
-Screenshot_2026-01-29_09_14_17.png
+![ssl](./Screenshot_2026-01-29_09_14_17.png).
+![ssl](./Screenshot_2026-01-29_09_15_26.png).
+![ssl](./Screenshot_2026-01-29_09_15_42.png).
 
 
 ## Video Demonstration
