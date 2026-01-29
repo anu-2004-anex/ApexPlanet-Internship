@@ -26,7 +26,29 @@ To build strong fundamentals in cybersecurity, networking, cryptography, and set
 - Target Machine: Metasploitable2  
 - Network Mode: Host-Only Adapter  
 
-Screenshots are available in the `screenshots/` folder.
+## Screenshots
+Below are my screenshots supporting Task-1:
+
+### Kali Linux Setup
+![Kali Desktop](./Screenshot_2026-01-29_09_14_17.png)
+
+### Network Settings
+![Network Settings](./network_setting.png)
+
+### Linux Commands
+![Linux Commands](./ifconfig.png)
+![Ping Result](./ping.png)
+
+### Wireshark Capture
+![Wireshark Capture](./wireshark_capture.png)
+
+### OpenSSL Encryption & Decryption
+![OpenSSL Encrypt/Decrypt](./openssl_encrypt_decrypt.png)
+
+## Video Demonstration
+Here is my Task-1 video on LinkedIn:
+< insert your linked in video URL >
+
 
 ---
 
