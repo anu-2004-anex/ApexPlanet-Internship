@@ -50,7 +50,7 @@ Below are my screenshots supporting Task-1:
 
 ## Video Demonstration
 Here is my Task-1 video on LinkedIn:
-< insert your linked in video URL >
+<https://www.linkedin.com/in/anamika-b-pillai-9b18b3303/details/featured/ >
 
 
 ---
@@ -89,7 +89,6 @@ Practiced:
 ---
 
 ## 📹 Video Demonstration
-[Video](./https://www.linkedin.com/in/anamika-b-pillai-9b18b3303/details/featured/)
 A 5-minute walkthrough video explaining the complete lab setup, tools, and commands has been uploaded to LinkedIn.
 
 ---
